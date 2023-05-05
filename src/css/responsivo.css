@@ -78,6 +78,13 @@
         transition: 0.2s;
     }
 
+    .menu {
+        display: flex;
+        gap: 0px;
+        align-items: center;
+        height: 100%;
+    }
+
     .modal #video{
         width: 250px;
         height: 140px;
