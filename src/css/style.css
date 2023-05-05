@@ -132,6 +132,9 @@ body{
     visibility: visible;
 }
 
+.descricao{
+    font-size: 3px;
+}
 
 .menu {
     display: flex;
@@ -147,4 +150,19 @@ body{
     
 }
 
+.paragrafo_container2{
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.texto_contaiener2{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.container2{
+    width: 900px;
+    margin: auto;
+}
 
