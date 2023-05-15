@@ -12,7 +12,7 @@ body{
     margin: 0 auto;
 }
 
-.cabecalho .logo {
+.cabecalho .logo1 {
     width: 65px;
 }
 
@@ -150,19 +150,18 @@ body{
     
 }
 
-.paragrafo_container2{
-    text-align: center;
-    padding-top: 40px;
+.container2{
+    background-color:  #b4b4b454;
+    padding: 40px;
     
 }
 
-.texto_contaiener2{
-    padding-top: 20px;
-    font-size: 20px;
+.titulo3{
+    font-size: max(30px,3vw);
+    text-align: center;
+    padding-bottom: 15px;
 }
 
-.container2{
-    width: 900px;
-    margin: auto;
+.paragrafo3{
+    font-size:max(20px, 2vw);
 }
-

@@ -1,5 +1,5 @@
-@media (max-width:1200px) {
-    .tudo{
+@media (max-width:1210px) {
+    .tudo1{
         background-color: black;
     }
 
@@ -33,6 +33,11 @@
     .container .botao-trailer{
         background-color: #263238;
     }
+
+   
+   
+    
+    
 }
 
 @media (max-width:800px) {
