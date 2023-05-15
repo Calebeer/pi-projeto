@@ -35,15 +35,7 @@
         background-color: #263238;
     }
     
-    .container01{
-        margin-left: 100px;
-        justify-content: space-between;
-    }
 
-    .tudo  {
-        display: ;
-    }
-    
 }
 
 @media (max-width:800px) {
@@ -74,14 +66,7 @@
         transition: 0.2s;
     }
 
-    .container01{
-        margin-left: 100px;
-        justify-content: space-between;
-    }
-
-    .tudo {
-        display: flex;
-    }
+    
 
 }
 
