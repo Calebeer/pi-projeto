@@ -1,4 +1,5 @@
 @media (max-width:1210px) {
+    
     .tudo1{
         background-color: black;
     }
@@ -33,10 +34,15 @@
     .container .botao-trailer{
         background-color: #263238;
     }
-
-   
-   
     
+    .container01{
+        margin-left: 100px;
+        justify-content: space-between;
+    }
+
+    .tudo  {
+        display: ;
+    }
     
 }
 
@@ -67,10 +73,23 @@
         border-radius: 50px;
         transition: 0.2s;
     }
+
+    .container01{
+        margin-left: 100px;
+        justify-content: space-between;
+    }
+
+    .tudo {
+        display: flex;
+    }
+
 }
 
 @media (max-width:600px){
-
+    
+    
+    
+    
 }
 
 @media (max-width:450px){
@@ -94,4 +113,15 @@
         width: 250px;
         height: 140px;
     }
+
+    
+    
+    .lista > p{
+        text-align: center;
+        margin-top: 5px;
+        color: rgba(0, 0, 0, 0.651);
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+    }
+
 }

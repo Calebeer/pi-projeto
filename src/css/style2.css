@@ -30,14 +30,14 @@ body {
 
 .texto1{
     font-family: 'Inter', sans-serif;    
-    font-size: 40px;
+    font-size: 3vw;
     font-weight: bold;
     margin: 20px;
 }
 
 .texto2 { 
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 1.5vw;
     margin-bottom: 30px;
     margin-left: 20px;
 }
@@ -77,8 +77,8 @@ article {
     text-decoration: none;
 }
 
-.tudo div {
-    display: flex;
+.tudo div{
+    display: flex ;
 }
 
 .container01{
