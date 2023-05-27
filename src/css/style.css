@@ -4,6 +4,11 @@ body{
     
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 .cabecalho {
     display: flex;
     justify-content: space-between;
