@@ -121,6 +121,7 @@ nav .menu-btn i{
 @media (max-width: 920px) {
     nav .menu-btn i{
         display: block;
+        padding-right: 70px;
     }
     nav ul{
         position: fixed;
