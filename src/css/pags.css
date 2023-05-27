@@ -13,8 +13,9 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   h1 {
-    color: #4285F4;
+    color: #4F45E4;
     text-align: center;
+    padding-bottom: 15px;
   }
   .image-grid {
     display: grid;
