@@ -1,29 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <title>Tutoriais</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="./src/img/6709WhatsApp_Image_2023-05-01_at_15.25.17-removebg-preview.ico" type="image/x-icon">
-  <link rel="stylesheet" href="./src/css/pags.css">
-  <style>
-  </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assents/css/style.css">
+    <link rel="stylesheet" href="./src/css/pags.css">
+    <title>Menu responsivo</title>
 </head>
 <body>
-  <div class="container">
-    <h1>Qual manual você está interessado?</h1>
-    <div class="image-grid">
-      <a href="./transform.html" class="image-link">
-        <img src="./src/img/drive.jpeg" alt="Imagem 1">
-      </a>
-      <a href="./projetatela.html" class="image-link">
-        <img src="./src/img/apresentarpower.jpeg" alt="Imagem 2">
-      </a>
-      <a href="./salvadocs.html" class="image-link">
-        <img src="./src/img/word.jpeg" alt="Imagem 3">
-      </a>
-      <!-- Adicione mais imagens aqui -->
+    <nav>
+        <div class="logo"> <img src="./assents/img/WhatsApp_Image_2023-05-01_at_15.25.17-removebg-preview.png" alt=""></div>
+
+        <div class="menu-btn">
+            <i class="fa fa-bars fa-2x" onclick="menuShow()"></i>
+        </div>
+
+        <ul>
+            <li> <a href="./index.html"> Home </a> </li>
+            <li> <a href="./index.html"> Sobre</a> </li>
+            <li> <a href="#"> Preços</a> </li>
+        </ul>
+    </nav>
+
+    <div class="container">
+      <h1>Qual manual você está interessado?</h1>
+      <div class="image-grid">
+        <a href="./transform.html" class="image-link">
+          <img src="./src/img/drive.jpeg" alt="Imagem 1">
+        </a>
+        <a href="./projetatela.html" class="image-link">
+          <img src="./src/img/apresentarpower.jpeg" alt="Imagem 2">
+        </a>
+        <a href="./salvadocs.html" class="image-link">
+          <img src="./src/img/word.jpeg" alt="Imagem 3">
+        </a>
+        <!-- Adicione mais imagens aqui -->
+      </div>
     </div>
-  </div>
+
+    <script src="./src/js/res.js"></script>
 </body>
 </html>
