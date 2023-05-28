@@ -97,5 +97,11 @@ nav {
 @media (max-width:500px) {
     .lista_passos{
        margin-left: 5px;
+       
     }
+
+    .passos {
+        font-size: 12px;
+    }
+
 }
